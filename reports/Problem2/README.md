@@ -1,6 +1,6 @@
 # Problem 2 — Median of Two Sorted Arrays
 
-**Student:** Kuralbaev Erasyl  
+**Student:** Tauekel Islam  
 **Group:** SE-2516  
 **Course:** Design and Analysis of Algorithms
 
