@@ -1,6 +1,6 @@
 # Problem 1 — Number of Occurrences
 
-**Student:** Kuralbaev Erasyl  
+**Student:** Tauekel Islam  
 **Group:** SE-2516  
 **Course:** Design and Analysis of Algorithms
 
